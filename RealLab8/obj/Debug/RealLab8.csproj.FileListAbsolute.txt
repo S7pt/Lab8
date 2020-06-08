@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\bin\Debug\RealLab8.exe.config
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\bin\Debug\RealLab8.exe
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\bin\Debug\RealLab8.pdb
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form1.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Properties.Resources.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.exe
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.pdb
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form2.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form3.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form4.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form5.resources
+C:\Users\Администратор\source\repos\RealLab8\RealLab8\obj\Debug\RealLab8.Form6.resources
