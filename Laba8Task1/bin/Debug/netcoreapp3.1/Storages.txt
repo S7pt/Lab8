@@ -1,0 +1,3 @@
+01/02/2005|55|10|Ivanenko Ivan|none
+01/07/2005|30|15|Ivanov Taras|none
+20/07/2005|15|15|Taras Shevchenko|none
